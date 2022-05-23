@@ -1,8 +1,8 @@
 👋 Hi, I’m @jguithub<br>
 👀 I’m interested in web and mobile application development.  <br>
-⌨️ I´m wordpress web developer.<br>
-🌱 I’m currently learning javascript, react.js, react native.<br>
-💞️ I’m looking to collaborate on web and mobile application business<br>
+⌨️ For now I´m a freelance wordpress web developer.<br>
+🌱 I’m currently learning javascript, react, php, Sql to improve my skills<br>
+💞️ I’m looking to collaborate on web and mobile application in a business<br>
 📫 How to reach me [Linkedin](https://www.linkedin.com/in/juan-javier-r-114a3318a/)<br>
 😃 I´speak in Spanish (native), English, Portuguese.<br>
 <br>
