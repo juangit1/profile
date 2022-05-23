@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jguithub
+- 👀 I’m interested in web and mobile application development  
+- 🌱 I’m currently learning javascript, react.js, react native.
+- 💞️ I’m looking to collaborate on web and mobile application business
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/juan-javier-r-114a3318a/)
