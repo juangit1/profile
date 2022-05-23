@@ -1,7 +1,7 @@
 👋 Hi, I’m @jguithub<br>
 👀 I’m interested in web and mobile application development.<br>
 ⌨️ For now I´m a freelance wordpress web developer.<br>
-🧑‍💻 More than 5 years using wordpress. Extensive experience in the use of plugins such as SEO Yoast, Page Builder by SiteOrigin, Elementor, Contact Form 7, WooCommerce, Google Captcha and analytics, Facebook comments, jotform. Knowledge in the creation of Url, hosting, mysql in wordpress, Google Search tools and Google Ads. Social Marketing. Html5, Css, Scss, Boostrap, Flexbox.<br>
+<justify>🧑‍💻 More than 5 years using wordpress. Extensive experience in the use of plugins such as SEO Yoast, Page Builder by SiteOrigin, Elementor, Contact Form 7, WooCommerce, Google Captcha and analytics, Facebook comments, jotform. Knowledge in the creation of Url, hosting, mysql in wordpress, Google Search tools and Google Ads. Social Marketing. Html5, Css, Scss, Boostrap, Flexbox.</justify><br>
 🌱 I’m currently learning javascript, react, php, Sql to improve my skills.<br>
 💞️ I’m looking to collaborate on web and mobile application in a business.<br>
 📫 How to reach me [Linkedin](https://www.linkedin.com/in/juan-javier-r-114a3318a/).<br>
